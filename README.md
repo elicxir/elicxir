@@ -1,8 +1,9 @@
-ELICXIR
-えりくさー
+# ELICXIR
+(えりくさー)
 
-DataScientist
-IndieGameDeveloper
-                        
-Programming 
+DataScientist IndieGameDeveloper
+                       
+## Programming 
+
 C# Python
+
