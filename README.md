@@ -10,3 +10,10 @@ https://gist.github.com/elicxir
 
 C# Python
 
+## Unity Packages
+
+https://github.com/elicxir/InputManager
+
+https://github.com/elicxir/SoundLoader
+
+https://github.com/elicxir/VectorExpansion
