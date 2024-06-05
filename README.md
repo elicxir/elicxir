@@ -3,17 +3,14 @@
 
 DataScientist IndieGameDeveloper
 
-check my github gist to find some useful idea 
+trash or treasure... 
 https://gist.github.com/elicxir
                        
 ## Programming 
 
-C# Python
+C# C++ Python
 
-## Unity Packages
+## Wasedasai 2D Act Code
 
-https://github.com/elicxir/InputManager
 
-https://github.com/elicxir/SoundLoader
-
-https://github.com/elicxir/VectorExpansion
+## Wasedasai 2D Act executable
